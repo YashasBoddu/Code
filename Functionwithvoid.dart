@@ -1,0 +1,5 @@
+void incrementCounter() {
+  setState(() {
+    count++;
+  });
+}
